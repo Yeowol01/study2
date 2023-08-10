@@ -1,1 +1,2 @@
 C:\Users\yeowo\Desktop\Application\x64\Debug\Application.exe
+C:\Users\yeowo\Desktop\study2\Application\x64\Debug\Application.exe
